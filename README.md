@@ -1,7 +1,7 @@
 # Clicky: The Next Generation
 Deployed to https://salty-badlands-44401.herokuapp.com/
 
-Click on images to earn points, but don't click on any duplicates or you lose! \n
+Click on images to earn points, but don't click on any duplicates or you lose!
 Utilizes: React, Node, Express, JSX, JS, CSS
 
 ![Alt text](./clickyTNG.png?raw=true "Main")
