@@ -4,6 +4,8 @@ Deployed to https://salty-badlands-44401.herokuapp.com/
 Click on images to earn points, but don't click on any duplicates or you lose! \n
 Utilizes: React, Node, Express, JSX, JS, CSS
 
+![Alt text](./clickyTNG.png?raw=true "Main")
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
