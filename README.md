@@ -2,7 +2,7 @@
 Deployed to https://salty-badlands-44401.herokuapp.com/
 
 Click on images to earn points, but don't click on any duplicates or you lose! \n
-Utilizes: 
+Utilizes: React, Node, Express, JSX, JS, CSS
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
